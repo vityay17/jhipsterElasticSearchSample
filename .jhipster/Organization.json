@@ -1,0 +1,21 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "year",
+            "fieldType": "BigDecimal",
+            "fieldValidateRules": []
+        }
+    ],
+    "changelogDate": "20180203215033",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "organization",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pagination"
+}
